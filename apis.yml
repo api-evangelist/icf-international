@@ -1,0 +1,48 @@
+aid: icf-international
+name: ICF (ICF International)
+description: >-
+  ICF (NASDAQ: ICFI), formerly ICF International, is a global consulting and
+  digital services firm headquartered in Reston, Virginia, delivering management,
+  technology, and policy consulting to US federal agencies, state and local
+  governments, utilities, and commercial clients. ICF serves markets spanning
+  government, energy, environment, infrastructure, transportation, health,
+  education, social programs, public safety, and disaster management, with
+  approximately 9,000 employees worldwide. The firm has invested in an in-house
+  AI offering branded "ICF Fathom," but no public REST APIs, developer portal,
+  SDKs, or technical documentation have been identified. ICF's work is delivered
+  under contract rather than through a productized developer platform.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Federal Consulting
+  - Digital Modernization
+  - Energy
+  - Environment
+  - Disaster Management
+  - Federal Health
+  - Public Sector IT
+  - AI Consulting
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/icf-international/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.icf.com
+  - type: About
+    url: https://www.icf.com/company/about
+  - type: InvestorRelations
+    url: https://investor.icf.com
+  - type: GitHubOrganization
+    url: https://github.com/ICF-Next-Government
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/icf
+  - type: Careers
+    url: https://www.icf.com/careers
+  - type: Newsroom
+    url: https://www.icf.com/insights/press-releases
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
