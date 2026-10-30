@@ -1,4 +1,4 @@
-# ICF (ICF International) (icf-international)
+# ICF (ICF International)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,39 +66,78 @@
 
 ICF (NASDAQ: ICFI), formerly ICF International, is a global consulting and digital services firm headquartered in Reston, Virginia, delivering management, technology, and policy consulting to US federal agencies, state and local governments, utilities, and commercial clients. ICF serves markets spanning government, energy, environment, infrastructure, transportation, health, education, social programs, public safety, and disaster management, with approximately 9,000 employees worldwide. The firm has invested in an in-house AI offering branded "ICF Fathom," but no public REST APIs, developer portal, SDKs, or technical documentation have been identified. ICF's work is delivered under contract rather than through a productized developer platform.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/icf-international/refs/heads/main/apis.yml)
+**Areas:** Federal Consulting · Digital Modernization · Energy · Environment · Disaster Management · Federal Health · Public Sector IT · AI Consulting
 
-## Scope
+## ICF (ICF International) on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for ICF (ICF International) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/icf-international/](https://apis.io/providers/icf-international/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Federal Consulting, Digital Modernization, Energy, Environment, Disaster Management, Federal Health, Public Sector IT, AI Consulting
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-No public APIs have been documented for ICF at this time. ICF delivers digital modernization, AI, data analytics, cloud, and cybersecurity work to federal, state, utility, and commercial customers under contract. The firm's `ICF-Next-Government` GitHub organization currently exposes only a small Shell-based bootstrap repository (`ngd-boilerplate-ai-bootstrap`) and no public REST APIs, OpenAPI specifications, SDKs, or developer portal have been identified for any ICF offering, including the "ICF Fathom" AI suite.
+Authentication, trust centre, and vulnerability disclosure.
 
-## Timestamps
+- [Icf International Domain Security](https://apis.io/security/icf-international/icf-international-domain-security/)
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.icf.com)
-- [About](https://www.icf.com/company/about)
-- [InvestorRelations](https://investor.icf.com)
-- [GitHubOrganization](https://github.com/ICF-Next-Government)
-- [LinkedIn](https://www.linkedin.com/company/icf)
-- [Careers](https://www.icf.com/careers)
-- [Newsroom](https://www.icf.com/insights/press-releases)
+- [GitHub](https://github.com/ICF-Next-Government)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.0** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/icf-international/](https://apis.io/providers/icf-international/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ICF (ICF International): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/icf-international/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
